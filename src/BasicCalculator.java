@@ -1,3 +1,10 @@
+/*
+    @author: Aayush Gulia
+    @name = Calculator.java
+    @Git: https://github.com/Aayush000001/SimpleJavaCalculator/blob/master/src/Calculator.java
+    @contact: aayushgulia07@outlook.com
+ */
+
 import java.util.Locale;
 import java.util.Scanner;
 
