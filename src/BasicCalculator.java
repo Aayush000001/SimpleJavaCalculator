@@ -1,6 +1,6 @@
 /*
     @author: Aayush Gulia
-    @name = Calculator.java
+    @name = BasicCalculator.java
     @Git: https://github.com/Aayush000001/SimpleJavaCalculator/blob/master/src/Calculator.java
     @contact: aayushgulia07@outlook.com
  */
